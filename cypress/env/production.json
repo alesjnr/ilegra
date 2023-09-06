@@ -1,0 +1,8 @@
+{
+  "urlBlog": "https://blogdoagi.com.br/",
+  "terms": {
+    "alphanumericTerm": "Agibank",
+    "numericTerm": "10",
+    "invalidTerm": "AgibankTest"
+  }
+}

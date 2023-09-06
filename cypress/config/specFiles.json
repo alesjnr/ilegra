@@ -1,0 +1,5 @@
+{
+  "allTests": [
+    "cypress/e2e/gui/search.cy.js"
+  ]
+}
